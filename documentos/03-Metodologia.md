@@ -19,13 +19,13 @@ Desta forma, a equipe está organizada da seguinte maneira:
 
 ### Processo
 
-Para organização e distribuição das tarefas do projeto, a equipe está utilizando o GitHub, estruturado com as seguintes listas: 
+Para organizar e distribuir as tarefas do projeto, a equipe está utilizando o GitHub, estruturando o fluxo de trabalho em quatro listas principais:
 
 <ul>
-  <li>Product Backlog: recebe as tarefas a serem trabalhadas e representa o Backlog do produto. Todas as atividades identificadas no decorrer do projeto são incorporadas a esta lista.</li>
-  <li>To Do: esta lista representa o Sprint Backlog que está sendo trabalhado.</li>
-  <li>In progress: lista das tarefas iniciadas.</li>
-  <li>Done: nesta lista são colocadas as tarefas finalizadas e as que passaram pelos testes e controle de qualidade, prontas para serem entregues aos usuários.</li>
+  <li>Product Backlog: armazena todas as atividades identificadas ao longo do projeto. Funciona como um repositório de ideias e demandas futuras, representando o backlog geral do produto.</li>
+  <li>To Do: reúne as tarefas priorizadas para a sprint atual. É a lista que representa o Sprint Backlog, contendo as atividades que serão desenvolvidas a curto prazo.</li>
+  <li>In Progress: contempla as tarefas que estão em andamento, ou seja, que já foram iniciadas pela equipe de desenvolvimento.</li>
+  <li>Done: recebe as tarefas concluídas, testadas e aprovadas, prontas para serem entregues aos usuários finais.</li>
  </ul>
 
 O quadro kanban do grupo no GitHub está disponível no link https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/projects/2 e é apresentado, no estado atual, na figura abaixo:
